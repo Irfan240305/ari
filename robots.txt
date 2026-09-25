@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /index/
+
+# Replace [WEBSITE_BASE_URL] with the production domain (including https://)
+Sitemap: [WEBSITE_BASE_URL]/sitemap.xml
